@@ -22,7 +22,7 @@ const ForgotPassword = () => {
         variant="outlined"
         sx={{
           width: "100%",
-          marginTop: "20px",
+          marginTop: "48px",
           height: "48px",
           borderRadius: "8px",
         }}

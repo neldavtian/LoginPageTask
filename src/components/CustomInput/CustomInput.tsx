@@ -76,6 +76,7 @@ const CustomInput: FC<ICustomInputProps> = ({
           variant="caption"
           height="20px"
           color={"black"}
+          marginBottom={"20px"}
         >
           {errors[type]?.message}
         </Typography>
