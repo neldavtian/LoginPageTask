@@ -1,0 +1,22 @@
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.2px solid rgba(0,0,0, .2);
+    border-radius: 6px;
+    width: 192px;
+    height: 46px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.links {
+    margin: 0;
+    padding-left: 10px;
+    color: black;
+}
